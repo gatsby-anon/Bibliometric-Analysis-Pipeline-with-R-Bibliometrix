@@ -29,7 +29,7 @@ install.packages("remotes")
 
 # SCOPUS: Converter os dados   para o padrão do bibliometrix
 {
-  SCOPUS <- convert2df("C:/Users/Usuario/Desktop/pipeline artigo/scopus.bib", dbsource = "scopus", format = "bibtex")
+  SCOPUS <- convert2df("C:/Users/Usuario/Desktop/pipeline artigo/arquivos_originais/scopus.bib", dbsource = "scopus", format = "bibtex")
 }
 
 
@@ -41,7 +41,7 @@ SCOPUS_FINAL <- distinct(SCOPUS_SEMDUPLICATA,DI, .keep_all= TRUE)
 
 # SCOPUS: Converter os dados   para o padrão do bibliometrix
 {
-  WOS <- convert2df("C:/Users/Usuario/Desktop/pipeline artigo/WOS.bib", dbsource = "scopus", format = "bibtex")
+  WOS <- convert2df("C:/Users/Usuario/Desktop/pipeline artigo/arquivos_originais/WOS.bib", dbsource = "scopus", format = "bibtex")
 }
 
 
