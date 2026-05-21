@@ -511,9 +511,9 @@ Special thanks to:
 If this repository contributes to your research, please consider citing the associated article.
 
 ```bibtex
-@article{yourcitation2026,
-  title={AI-Assisted Programming in Programming Education: A Bibliometric Analysis},
-  author={Author Name},
+@article{Maia et al. (2026),
+  title={Análise Bibliométrica da Programação Assistida por IA no Ensino de Programação: Tendências, Riscos e Agenda de Pesquisa Emergente.},
+  author={Lucas Maia},
   year={2026}
 }
 ```
