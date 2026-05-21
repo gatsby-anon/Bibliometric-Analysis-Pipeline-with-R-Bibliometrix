@@ -1,5 +1,3 @@
-# Bibliometric-Analysis-Pipeline-with-R-Bibliometrix
-
 # 📚 AI-Assisted Programming in Programming Education  
 ### Bibliometric Analysis Pipeline with R & Bibliometrix
 
