@@ -311,24 +311,6 @@ Perform statistical and scientific mapping analyses.
 
 ---
 
-# 📸 Screenshots
-
-## 📊 Bibliometric Dashboard
-
-<p align="center">
-  <img src="./docs/images/dashboard.png" width="900">
-</p>
-
----
-
-## 🌐 Collaboration Networks
-
-<p align="center">
-  <img src="./docs/images/network.png" width="900">
-</p>
-
----
-
 # 📌 Main Research Topics Identified
 
 - AI-assisted programming
@@ -499,8 +481,8 @@ See the `LICENSE` file for more details.
 
 ## Lucas Maia
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/gatsby-anon
+- LinkedIn: https://www.linkedin.com/in/lucasolimaia/
 
 ---
 
