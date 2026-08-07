@@ -419,35 +419,6 @@ The workflow is optimized for:
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome.
-
-## Suggested Workflow
-
-1. Fork the repository
-2. Create a feature branch
-
-```bash
-git checkout -b feature/my-feature
-```
-
-3. Commit changes
-
-```bash
-git commit -m "feat: add new bibliometric analysis"
-```
-
-4. Push to branch
-
-```bash
-git push origin feature/my-feature
-```
-
-5. Open a Pull Request
-
----
-
 ## 📊 Data Collection
 
 The bibliographic datasets used in this study were extracted from the following scientific databases:
@@ -477,15 +448,6 @@ See the `LICENSE` file for more details.
 
 ---
 
-# 👨‍💻 Author
-
-## Lucas Maia
-
-- GitHub: https://github.com/gatsby-anon
-- LinkedIn: https://www.linkedin.com/in/lucasolimaia/
-
----
-
 # 🙏 Acknowledgements
 
 Special thanks to:
@@ -505,21 +467,6 @@ Special thanks to:
 - Web of Science
 
 ---
-
-# ⭐ Citation
-
-If this repository contributes to your research, please consider citing the associated article.
-
-```bibtex
-@article{Maia et al. (2026),
-  title={Análise Bibliométrica da Programação Assistida por IA no Ensino de Programação: Tendências, Riscos e Agenda de Pesquisa Emergente.},
-  author={Lucas Maia},
-  year={2026}
-}
-```
-
----
-
 <p align="center">
   Developed for scientific research and reproducible bibliometric analysis.
 </p>
