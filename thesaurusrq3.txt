@@ -1,0 +1,67 @@
+label,replace by
+AI,artificial intelligence
+A.I.,artificial intelligence
+artificial intelligences,artificial intelligence
+artificial intelligence (AI),artificial intelligence
+AI-assisted programming,artificial intelligence assisted programming
+AI assisted programming,artificial intelligence assisted programming
+AI-based programming,artificial intelligence assisted programming
+programming assisted by AI,artificial intelligence assisted programming
+intelligent programming assistants,artificial intelligence assisted programming
+large language model,large language models
+LLM,large language models
+LLMs,large language models
+foundation models,large language models
+generative AI,generative artificial intelligence
+generative artificial intelligence,generative artificial intelligence
+code generation,code generation
+automatic code generation,code generation
+program synthesis,code generation
+code completion,code completion
+intelligent code completion,code completion
+programming education,programming education
+computer programming education,programming education
+programming learning,programming education
+learning programming,programming education
+introductory programming,CS1
+CS1,CS1
+computer science 1,CS1
+computer science education,computer science education
+CS education,computer science education
+computing education,computer science education
+object oriented programming,object-oriented programming
+OOP,object-oriented programming
+object-oriented programming,object-oriented programming
+novice programmers,novice programmers
+beginner programmers,novice programmers
+programming novices,novice programmers
+program comprehension,code comprehension
+code comprehension,code comprehension
+program understanding,code comprehension
+debugging,debugging
+program debugging,debugging
+programming feedback,programming feedback
+automated feedback,programming feedback
+intelligent feedback,programming feedback
+educational technology,educational technology
+AI in education,artificial intelligence in education
+artificial intelligence in education,artificial intelligence in education
+AI for education,artificial intelligence in education
+teaching programming,programming education
+learning outcomes,learning outcomes
+student performance,learning outcomes
+student learning,learning outcomes
+higher education,higher education
+computer science students,computer science students
+software engineering education,software engineering education
+qualitative research,qualitative research
+empirical study,
+case study,
+study,
+analysis,
+approach,
+method,
+paper,
+article,
+review,
+research,
